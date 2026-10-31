@@ -1,0 +1,13 @@
+{
+  "name": "fsd1",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Root workspace runner for reactjs-gallery-website",
+  "scripts": {
+    "dev": "npm --prefix reactjs-gallery-website run dev",
+    "start": "npm --prefix reactjs-gallery-website start",
+    "build": "npm --prefix reactjs-gallery-website run build",
+    "test": "npm --prefix reactjs-gallery-website test"
+  }
+}
+
